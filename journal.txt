@@ -1,5 +1,5 @@
-Author: Graham Hall
-Title: A paper which I'll never get round to writing, as usual
+Author: Graham Hall and Bob Jones
+Title: A paper which needs to be written
 
 Introduction: Blah, blah
 Analysis
