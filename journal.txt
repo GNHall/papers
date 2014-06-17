@@ -1,4 +1,4 @@
-Author: Graham Hall and Bob Jones
+Author: Graham Hall, Bob Jones and John Smith
 Title: A paper which needs to be written
 
 Introduction: Blah, blah
