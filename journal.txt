@@ -3,5 +3,5 @@ Title: A paper which I'll never get round to writing
 
 Introduction: Blah, blah
 Analysis
-Discussion
+Discussion: Waffle on about something
 Conclusion
