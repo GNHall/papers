@@ -2,6 +2,6 @@ Author: Graham Hall
 Title: A paper which I'll never get round to writing
 
 Introduction: Blah, blah
-Analysis
+Analysis: A different analyses
 Discussion: Waffle on about something
 Conclusion
