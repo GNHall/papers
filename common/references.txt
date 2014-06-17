@@ -3,3 +3,5 @@ References:
 1. Blogs et al.
 2. Smith et al.
 3. Jones et al.
+4. Yet another author
+5. And one more.
